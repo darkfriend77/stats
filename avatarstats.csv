@@ -1,4 +1,4 @@
-treasury;freeMints;totalMinted;totalForged;forgedMintedRatio;totalPlayers;totalAva;totalAvaLeg;totalAvaRar;totalAvaCom;playerAvatarAvg;totalSold;totalBought;totalTrades;playerTradesAvg;marketAvaAmo;marketAvaSum;marketAvgPri;marketAvaLegAmo;marketAvaLegSum;marketAvgLegPri;marketAvaRarAmo;marketAvaRarSum;marketAvgRarPri;marketAvaComAmo;marketAvaComSum;marketAvgComPri
+blockNumber;treasury;freeMints;totalMinted;totalForged;forgedMintedRatio;totalPlayers;totalAva;totalAvaLeg;totalAvaRar;totalAvaCom;playerAvatarAvg;totalSold;totalBought;totalTrades;playerTradesAvg;marketAvaAmo;marketAvaSum;marketAvgPri;marketAvaLegAmo;marketAvaLegSum;marketAvgLegPri;marketAvaRarAmo;marketAvaRarSum;marketAvgRarPri;marketAvaComAmo;marketAvaComSum;marketAvgComPri
 1465035;0;189167;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
 1465335;0;191167;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
 1465635;0;191640;6;0;0;1;6;0;0;6;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
